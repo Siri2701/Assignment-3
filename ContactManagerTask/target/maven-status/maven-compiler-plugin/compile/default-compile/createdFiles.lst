@@ -1,0 +1,7 @@
+com\softnexist\util\DBUtil.class
+com\softnexist\controller\ContactServlet.class
+com\softnexist\dao\ContactDAOImpl.class
+com\softnexist\model\Contact.class
+com\softnexist\dao\ContactDAO.class
+com\softnexist\controller\AddContactServlet.class
+org\example\contactmanagertask\HelloServlet.class
